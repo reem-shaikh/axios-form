@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/axios-form/static/css/main.9e9f2bfe.css",
+    "main.js": "/axios-form/static/js/main.ba524f53.js",
+    "static/js/787.073d6e41.chunk.js": "/axios-form/static/js/787.073d6e41.chunk.js",
+    "static/media/1.jpg": "/axios-form/static/media/1.498c41862b7f52eef1ca.jpg",
+    "static/media/logo.svg": "/axios-form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/axios-form/index.html",
+    "main.9e9f2bfe.css.map": "/axios-form/static/css/main.9e9f2bfe.css.map",
+    "main.ba524f53.js.map": "/axios-form/static/js/main.ba524f53.js.map",
+    "787.073d6e41.chunk.js.map": "/axios-form/static/js/787.073d6e41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9f2bfe.css",
+    "static/js/main.ba524f53.js"
+  ]
+}
